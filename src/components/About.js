@@ -49,13 +49,13 @@ const About = () => {
              Coding.
               <h2>
               <ul  className='marker:text-sky-400 list-disc pl-8 space-y-3 text-white '>
-               <li>Birthday- 7th November, 2004</li>              
-               <li>Home Town- Bhilwara, Rajasthan</li>
-               <li>Currently in- Chennai</li>
+               <li>D.O.B- 7th November, 2004</li>              
                <li>Age- 18</li>
                <li>Email- shreyjoshi1394@gmail.com</li>
                <li>Phone no- +91(private) </li>
-            
+               <li>Sem-1 GPA- 9.41</li>
+               <li>Sem-2 GPA- 9.43</li>
+
                 </ul>
                 </h2>
                 <br></br>
@@ -68,19 +68,16 @@ const About = () => {
                 viewport={{once: false , amount:0.3}}
                 className='flex-1'>
                  
-              <h2 className='text-green-400 text-[35px]'>Club Experience</h2>
+              <h2 className='text-green-400 text-[35px]'>University Experience</h2>
               <br></br>
               
-              <h3 className='text-pink-400 text-[20px]'> SRM Quantum Computing Club (SQCC)</h3>
+              <h3 className='text-pink-400 text-[20px]'>SRM Institute of Science and Technology.</h3>
               <br></br>
-              <button className='bg-slate-500 rounded-md px-3 text-[15px]'>Member</button>
+              <button className='bg-slate-500 rounded-md px-3 text-[15px]'>Currently in 2nd year</button>
               <br></br>
               <br></br>
-              <p>This club is based on study of quantum computing related stuffs.
-              This club has provided me enough knowledge about Quantum Computing and web development with a platform for which I was looking forward too!.
-              My domain leads helped me with one on one interaction by assigning projects. I have completed the assigned projects very sincerely!!
-                There are several domains available in this club, I was in tech domain (web dev) 
-                I'm consistently striving to improve my techniques, capabilities & expand my skill set and find new opportunities to grow.
+              <p> My university experience has been an exhilarating journey of technological exploration. I've delved into the intricacies of coding, algorithms, and software development, honing my technical skills and problem-solving abilities.
+              This year, I've had the opportunity to work on exciting projects, collaborate with professors on research, and even engage in hackathons and coding competitions. These experiences have not only deepened my understanding of the field but have also sparked my passion for innovation and the limitless potential of technology. 
                   </p>
                   <br></br>
                   </motion.div>

@@ -1,5 +1,5 @@
 import React from 'react';
-import {FaGithub , FaInstagram , FaLinkedin} from 'react-icons/fa';                    //importing girhub and instagram //
+import {FaGithub , FaHackerrank, FaInstagram , FaLinkedin} from 'react-icons/fa';                    //importing github and instagram //
 import { TypeAnimation } from 'react-type-animation';
 import {motion} from 'framer-motion'
 import {fadeIn} from '../variants';
@@ -75,6 +75,9 @@ const Banner = () => {
         </a>
         <a href='https://www.linkedin.com/in/shrey-joshi-1b038a249/'>
           <FaLinkedin/>
+        </a>
+        <a href='https://www.hackerrank.com/dashboard'>
+          <FaHackerrank/>
         </a>
         </motion.div>   
        <motion.p
