@@ -86,7 +86,7 @@ const Banner = () => {
        whileInView={'show'}
        viewport={{once: false , amount:0.4}}
         className='font-primary text-md tracking-[2px]'>
-         I'm a 2nd year B.Tech student with a passion for Web Development. <br></br>
+         I'm a 3rd year B.Tech student with a passion for Web Development. <br></br>
         I am eager to learn & understand new things and collaborate with <br></br>
         professionals to contribute in real-world projects.<br></br>
         </motion.p>

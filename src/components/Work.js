@@ -7,9 +7,9 @@ import { fadeIn } from '../variants';
 const work =  [ 
  
   {
-    name:'First Website',
+    name:'Multi-Purpose-Healthcare-system-for-Universities',
     description:
-    "My 1st Website which I developed for my Club it was a basic webpage.",
+    "The Multi-Purpose Healthcare System for Universities is a full-featured web-based application designed to optimize health services within a university setting.",
     link1: 'Click here',
     
   },
@@ -99,7 +99,7 @@ const Work = () => {
 
               </a>
 
-              <a href='https://64ce1acb759c68279a0302b1--fancy-figolla-418226.netlify.app/' className='text-gradient text-sm'>{link1}</a>
+              <a href='https://github.com/Shreyyy07/Multi-Purpose-Healthcare-system-for-Universities' className='text-gradient text-sm'>{link1}</a>
               <a href='https://shreyyy07.github.io/To-Do-List/' className='text-gradient text-sm'>{link2}</a>
               <a href='https://64ce1c5774696f32d24b9dc3--cool-croquembouche-d7bd4c.netlify.app/' className='text-gradient text-sm'>{link3}</a>
               <a href='https://650dd01f426292168c61c14a--vocal-cheesecake-465029.netlify.app/' className='text-gradient text-sm'>{link4}</a>

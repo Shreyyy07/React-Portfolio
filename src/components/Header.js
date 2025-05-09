@@ -6,7 +6,7 @@ const Header = () => {
       <div className='container mx-auto'>
         <div className='flex justify-between item-center'>
           <a href='#'>
-            <img src={Logo} alt='iuhu'
+            <img src={Logo} alt='logo'
             className='h-[130px] rounded-b-full'
             />
           </a>
